@@ -1,7 +1,7 @@
 # Tree Visualizer
 
 # Features
-- Web app built using HTML/CSS/JS(ES6) built to visualize tree data structures.
+- Web app built using HTML/CSS/JS(ES6) to visualize tree data structures.
 - Plot binary tree, max heap and BST by adding nodes and edges with its corresponding array representation.
  
 
