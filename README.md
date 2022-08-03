@@ -5,7 +5,7 @@
 - Plot binary tree, max heap and BST by adding nodes and edges with its corresponding array representation.
  
 
-Try it [here](https://nodejs.org/).
+Try it [here](https://abhinavs27.github.io/tree-visualizer/).
 
 ![logo](https://user-images.githubusercontent.com/64855481/182558101-0cfde054-d4cc-4024-87e4-9010572885da.png)
 
